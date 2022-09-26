@@ -1,2 +1,2 @@
 # Supplementary
-# This file is the expression matrix of PUMCH cohort used in our study. To adhere to data policies, now it is uploaded here publicly.
+# These files include original datasets used in our study. To adhere to data policies, now they are uploaded here publicly.
